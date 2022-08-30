@@ -47,6 +47,18 @@ public class Rechnen {
         d += 0.1;
         System.out.println(d);
 
+        // Integer Arithmetik
+        int a = 7;
+        int b = 2;
+        System.out.println(a / b);
+
+        double a2 = 7;
+        int b2 = 2;
+        System.out.println(a2 / b2);
+
+
+        System.out.println(1 / 2.0 * 90);
+
     }
 
 
